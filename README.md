@@ -58,7 +58,7 @@ wget --no-check-certificate -O install.sh https://raw.githubusercontent.com/CCCh
 
 ![image-20200615211851731](img/README/image-20200615211851731.png)
 
-看到`Bad Request`便成功了
+看到`Bad Request`便成功了.
 
 ![image-20200615211949359](img/README/image-20200615211949359.png)
 
